@@ -7,7 +7,6 @@ BS-IT graduate (CGPA 3.83/4.0) working on explainable and agentic AI. I build AI
 - **Final-year project (2026):** explainable-AI predictive maintenance — LSTM + SHAP + counterfactual repair reasoning, validated on the NASA C-MAPSS benchmark, done at Government College Women University Faisalabad.
 - **IT Intern, Softrix Technologies (Jun–Dec 2025):** software and IT support work alongside my degree.
 - **Core stack:** Python, PyTorch, TensorFlow, Scikit-learn, SHAP, LangGraph-style agent design, RAG pipelines, prompt engineering.
-- **Currently:** preparing applications for fully funded MS/PhD programmes in AI/CS for the 2027 intake.
 
 Most of my recent work is about one question: *how do you make an AI system's output worth trusting?* The projects below each take one part of that question — explaining a failure prediction, verifying a generated answer, and coordinating agents that check each other.
 
